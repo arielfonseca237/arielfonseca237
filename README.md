@@ -1,6 +1,6 @@
-Olá! Eu sou Ariel Fonseca e estou no segundo ano do ensino médio. Embora esteja começando a jornada no mundo da tecnologia, já sou muito interessado em aprender e explorar como as soluções tecnológicas podem melhorar o nosso dia a dia.
+Olá! Eu sou Ariel Fonseca e estou no segundo ano do ensino médio. Estudante de Desenvolvimento de Sistemas, embora esteja começando a jornada no mundo da tecnologia, já sou muito interessado em aprender e explorar como as soluções tecnológicas podem melhorar o nosso dia a dia.
 
-💻 Já comecei a estudar programação e estou aprendendo as bases de Java, Kotlin e algumas linguagens de backend. Tenho muito interesse em entender como as aplicações funcionam por trás das telas, e como podemos usar tecnologia para criar soluções inteligentes e eficazes.
+💻 Já comecei a estudar programação e estou aprendendo as bases de Java. Tenho muito interesse em entender como as aplicações funcionam por trás das telas, e como podemos usar tecnologia para criar soluções inteligentes e eficazes.
 
 ☁️ Também estou começando a explorar o mundo da computação em nuvem, automação e DevOps. Acho muito interessante como a tecnologia pode ser usada para construir sistemas rápidos, escaláveis e seguros.
 
